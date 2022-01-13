@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/noah/static/css/main.86aac1af.chunk.css",
-    "main.js": "/noah/static/js/main.5059eb15.chunk.js",
-    "main.js.map": "/noah/static/js/main.5059eb15.chunk.js.map",
-    "runtime-main.js": "/noah/static/js/runtime-main.235908ee.js",
-    "runtime-main.js.map": "/noah/static/js/runtime-main.235908ee.js.map",
-    "static/js/2.256dd379.chunk.js": "/noah/static/js/2.256dd379.chunk.js",
-    "static/js/2.256dd379.chunk.js.map": "/noah/static/js/2.256dd379.chunk.js.map",
-    "static/js/3.a64233a7.chunk.js": "/noah/static/js/3.a64233a7.chunk.js",
-    "static/js/3.a64233a7.chunk.js.map": "/noah/static/js/3.a64233a7.chunk.js.map",
-    "index.html": "/noah/index.html",
-    "static/css/main.86aac1af.chunk.css.map": "/noah/static/css/main.86aac1af.chunk.css.map",
-    "static/js/2.256dd379.chunk.js.LICENSE.txt": "/noah/static/js/2.256dd379.chunk.js.LICENSE.txt",
-    "static/media/1.5f3fe632.png": "/noah/static/media/1.5f3fe632.png",
-    "static/media/reset.css": "/noah/static/media/PressStart2P-Regular.f2341734.woff"
+    "main.css": "/noah/master/static/css/main.fce719f7.chunk.css",
+    "main.js": "/noah/master/static/js/main.5059eb15.chunk.js",
+    "main.js.map": "/noah/master/static/js/main.5059eb15.chunk.js.map",
+    "runtime-main.js": "/noah/master/static/js/runtime-main.c65730ce.js",
+    "runtime-main.js.map": "/noah/master/static/js/runtime-main.c65730ce.js.map",
+    "static/js/2.7c1e88d0.chunk.js": "/noah/master/static/js/2.7c1e88d0.chunk.js",
+    "static/js/2.7c1e88d0.chunk.js.map": "/noah/master/static/js/2.7c1e88d0.chunk.js.map",
+    "static/js/3.a64233a7.chunk.js": "/noah/master/static/js/3.a64233a7.chunk.js",
+    "static/js/3.a64233a7.chunk.js.map": "/noah/master/static/js/3.a64233a7.chunk.js.map",
+    "index.html": "/noah/master/index.html",
+    "static/css/main.fce719f7.chunk.css.map": "/noah/master/static/css/main.fce719f7.chunk.css.map",
+    "static/js/2.7c1e88d0.chunk.js.LICENSE.txt": "/noah/master/static/js/2.7c1e88d0.chunk.js.LICENSE.txt",
+    "static/media/1.5f3fe632.png": "/noah/master/static/media/1.5f3fe632.png",
+    "static/media/reset.css": "/noah/master/static/media/PressStart2P-Regular.f2341734.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.235908ee.js",
-    "static/js/2.256dd379.chunk.js",
-    "static/css/main.86aac1af.chunk.css",
+    "static/js/runtime-main.c65730ce.js",
+    "static/js/2.7c1e88d0.chunk.js",
+    "static/css/main.fce719f7.chunk.css",
     "static/js/main.5059eb15.chunk.js"
   ]
 }
